@@ -1,1 +1,1 @@
-# arduino_read_from_serial_with_c-
+# In this code the only thing I want to share at least for now is the code in c# and an approach that I have spend days to find a way to send from a combobox and read from a sesnor of arduino with windows form. I will share the code of form only because I want to help other people. For me worked 100%!! 
